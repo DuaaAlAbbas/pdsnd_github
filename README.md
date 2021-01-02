@@ -1,5 +1,5 @@
 ### Date created
-Saturday , 2 January 2021
+2 January 2021
 
 ### Project Title
 US Bikeshare Statistics
@@ -13,5 +13,6 @@ washington.csv
 new_york_city.csv
 
 ### Credits
+Udacity.com 
 The project was created as part of the Udacity course Programming for Data Science with Python Nanodegree Program
 
