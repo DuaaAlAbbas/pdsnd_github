@@ -1,5 +1,5 @@
 """
-Udacity Second Project (Explore US Bikeshare Data)
+(Explore US Bikeshare Data)
 By: Duaa Al Abbas
 """
 
